@@ -116,16 +116,3 @@ This project is **open-source** and available under the **MIT License**.
 ---
 
 ### ⭐ If you found this useful, please consider giving a star ⭐ to the repository!
-```
-
----
-
-### **🔥 What This README Includes**
-✅ **Project description**  
-✅ **Installation & setup instructions**  
-✅ **How to run the bot**  
-✅ **Deployment options (Heroku & VPS)**  
-✅ **Requirements & dependencies**  
-✅ **Contributing guidelines**  
-✅ **License & credits**  
-
