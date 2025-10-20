@@ -21,5 +21,3 @@ python bot.py
 ## License
 MIT
 <!-- updated: 2025-10-25-r01 -->
-
-
