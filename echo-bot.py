@@ -1,7 +1,7 @@
 from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, CallbackContext
 from dotenv import load_dotenv
-import os 
+import os
 
 # Load environment variables from.env file
 load_dotenv()
