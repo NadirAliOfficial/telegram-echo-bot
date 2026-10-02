@@ -9,13 +9,13 @@ A simple Telegram bot that echoes back any message it receives — useful as a b
 
 ## Requirements
 ```
-pip install python-telegram-bot
+pip install -r requirements.txt
 ```
 
 ## Usage
 ```bash
 export BOT_TOKEN="your_token"
-python bot.py
+python echo-bot.py
 ```
 
 ## License
