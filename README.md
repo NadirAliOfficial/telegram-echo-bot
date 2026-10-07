@@ -12,9 +12,14 @@ A simple Telegram bot that echoes back any message it receives — useful as a b
 pip install -r requirements.txt
 ```
 
+## Configuration
+Create a `.env` file next to `echo-bot.py` with your bot token:
+```
+TOKEN=your_token
+```
+
 ## Usage
 ```bash
-export BOT_TOKEN="your_token"
 python echo-bot.py
 ```
 
